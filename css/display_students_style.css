@@ -1,0 +1,57 @@
+body{
+    font-family: 'Trebuchet MS';
+}
+
+.head{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.head a{
+    text-decoration: none;
+    color: green;
+    font-size: 20px;
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.head a:hover{
+    background-color: green;
+    color: #fff;
+}
+
+.table {
+    text-align: center !important;
+    padding: 0px 15px !important;
+}
+
+.edit{
+    text-decoration: none;
+    color: rgb(35, 163, 236);
+    font-size: 15px;
+    border: 2px solid rgb(35, 163, 236);
+    border-radius: 10px;
+    padding: 3px 8px;
+    
+}
+
+.edit:hover{
+    background-color: rgb(35, 163, 236);
+    color: #fff;
+}
+
+.delete{
+    text-decoration: none;
+    color: rgb(236, 35, 35);
+    font-size: 15px;
+    border: 2px solid rgb(236, 35, 35);
+    border-radius: 10px;
+    padding: 3px 8px;
+    
+}
+
+.delete:hover{
+    background-color: rgb(236, 35, 35);
+    color: #fff;
+}

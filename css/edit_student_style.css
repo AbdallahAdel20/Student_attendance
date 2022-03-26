@@ -1,0 +1,64 @@
+body{
+    font-family: 'Trebuchet MS';
+}
+
+.homepagelink{
+    text-align: center;
+    height: 50px;
+    padding: 10px 0px;
+}
+#homebutton{
+    text-decoration: none;
+    color: rgb(236, 149, 35);
+    font-size: 15px;
+    border: 2px solid rgb(236, 149, 35);
+    border-radius: 10px;
+    padding: 3px 8px;
+    margin: 5px auto;
+    width: max-content;
+    
+}
+
+#homebutton:hover{
+    background-color: rgb(236, 149, 35);
+    color: #fff;
+}
+
+
+.myform{
+    border: 2px solid;
+    width: 400px;
+    height: auto;
+    margin:  20px auto;
+    padding: 30px ;
+}
+.myform form{
+    font-size: 20px;
+}
+
+.button{
+    
+    align-self: center !important;
+    border: 2px solid rgb(35, 163, 236) !important;
+    margin: 20px 118px ;
+    width: max-content;
+    font-size: 20px;
+    background-color: transparent;
+    color: rgb(35, 163, 236);
+}
+
+.button:hover{
+    color: #fff;
+    background-color: rgb(35, 163, 236);
+}
+
+.end{
+    /* text-align: center; */
+    font-size: 15px;
+    text-decoration: none;
+    width: max-content;
+    margin: 0px;
+}
+.end a{
+    text-decoration: none;
+}

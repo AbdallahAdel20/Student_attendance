@@ -1,0 +1,38 @@
+body{
+    font-family: 'Trebuchet MS';
+    margin: 0px;
+    padding: 0px;
+}
+
+.data{
+    text-align: center;
+    border: 1px solid ;
+    padding: 20px 50px;
+    margin: 20px auto;
+    width: max-content;
+}
+
+.delete{
+    background-color: transparent;
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(236, 35, 35);
+    border: 2px solid rgb(236, 35, 35);
+    border-radius: 20px;
+}
+.delete:hover{
+    cursor: pointer;
+    color: #fff;
+    background-color: rgb(236, 35, 35);
+}
+
+p{
+    margin: 10px 10px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(35, 163, 236);
+    margin: 0px 10px;
+}
